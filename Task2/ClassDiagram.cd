@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Creature" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MagicThing" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAABgAAAAEAA=</HashCode>
+      <FileName>Task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MagicCharacter" Collapsed="true">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAIAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAIAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MythicalAnimal" Collapsed="true">
+    <Position X="1.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAIAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerGameObject" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
